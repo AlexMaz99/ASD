@@ -1,6 +1,7 @@
 # Ćwiczenia 7
 
-## Zadania na ćwiczenia
+## Drzewa BST
+### Zadania na ćwiczenia
 
 Proszę podać modyfikację drzewa BST, która pozwala na efektywne wykonywanie następujących operacji:
 
@@ -9,7 +10,7 @@ Proszę podać modyfikację drzewa BST, która pozwala na efektywne wykonywanie 
 |1 |znalezienie i-tego, co do wielkości elementu w drzewie BST|[✓](../lab07/01.cpp "zad 1")|
 |2 |wyznaczenie, którym co do wielkości w drzewie jest zadany węzeł|[✓](../lab07/02.cpp "zad 2")|
 
-## Inne zadania
+### Inne zadania
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

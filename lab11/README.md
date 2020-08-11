@@ -1,6 +1,6 @@
 # Ćwiczenia 11
 
-## Zadania
+## Grafy - zastosowanie algorytmów grafowych
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

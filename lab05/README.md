@@ -1,6 +1,6 @@
 # Ćwiczenia 5
 
-## Zadania
+## Struktury danych
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

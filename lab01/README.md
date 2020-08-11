@@ -1,6 +1,6 @@
 # Ćwiczenia 1
 
-## Zadania
+## Sortowania proste
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

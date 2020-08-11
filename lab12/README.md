@@ -1,6 +1,6 @@
-# Ćwiczenia 11
+# Ćwiczenia 12
 
-## Zadania
+## Grafy - algorytm Dijkstry
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

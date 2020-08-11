@@ -1,6 +1,6 @@
 # Ćwiczenia 6
 
-## Zadania
+## Tablice z hashowaniem
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

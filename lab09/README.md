@@ -1,6 +1,6 @@
 # Ćwiczenia 9
 
-## Zadania
+## Drzewa B-tree
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

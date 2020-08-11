@@ -1,6 +1,6 @@
 # Ćwiczenia 2
 
-## Zadania
+## MergeSort, HeapSort
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

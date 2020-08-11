@@ -1,6 +1,6 @@
 # Ćwiczenia 13
 
-## Zadania
+## Programowanie dynamiczne
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|

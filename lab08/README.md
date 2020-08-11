@@ -1,6 +1,6 @@
 # Ćwiczenia 8
 
-## Zadania
+## Drzewa czerwono - czarne
 
 | Nr| Polecenie |Zrobione |
 |--|--|--|
