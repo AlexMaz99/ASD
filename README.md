@@ -13,6 +13,6 @@ This repository contains my solutions of tasks from ASD classes on Computer Scie
 8. [Drzewa czerwono - czarne](lab08 "lab 8")
 9. [Drzewa B-tree](lab09 "lab 9")
 10. [Grafy - BFS, DFS](lab10 "lab 10")
-11. [Grafy - zastosowanie algorytmów grafowych](lab11 "lab 11")
+11. [Grafy - algorytmy grafowe i ich zastosowania](lab11 "lab 11")
 12. [Grafy - algorytm Dijkstry](lab12 "lab 12")
 13. [Programowanie dynamiczne](lab13 "lab 13")
