@@ -16,3 +16,4 @@ This repository contains my solutions of tasks from ASD classes on Computer Scie
 11. [Grafy - algorytmy grafowe i ich zastosowania](lab11 "lab 11")
 12. [Grafy - algorytm Dijkstry](lab12 "lab 12")
 13. [Programowanie dynamiczne](lab13 "lab 13")
+14. [Zadania przygotowujące do kartkówek](others "others tasks")
